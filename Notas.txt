@@ -1,0 +1,16 @@
+
+
+npm init -y
+
+npm i nodemon
+
+npm i express dotenv
+
+para correr la aplicacion:
+- node app.js
+
+
+instalar cors:
+npm install cors
+
+
