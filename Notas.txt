@@ -1,16 +1,44 @@
 
 
 npm init -y
+---------------------------------------
+instalar nodemon:
+esto se instala en dev
+npm install --save-dev nodemon
 
-npm i nodemon
+esto se instala en produccion
+npm i nodemon 
 
+para correr el proyecto con nodemon:
+npm run dev
+
+---------------------------------------
 npm i express dotenv
 
-para correr la aplicacion:
+---------------------------------------
+
+para correr la aplicacion sin nodemon:
 - node app.js
 
+--------------------------------------
 
 instalar cors:
 npm install cors
+
+--------------------------------------
+
+instalar mongoose:
+npm i mongoose
+
+--------------------------------------
+
+para encriptar la contraseña:
+npm i bcryptjs
+
+--------------------------------------
+
+para validar campos:
+npm i express-validator
+
 
 
